@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/katjunkina_zapiska_na_noviy_godik/static/css/main.2df0f4cf.css",
+    "main.js": "/katjunkina_zapiska_na_noviy_godik/static/js/main.2277f144.js",
+    "index.html": "/katjunkina_zapiska_na_noviy_godik/index.html",
+    "main.2df0f4cf.css.map": "/katjunkina_zapiska_na_noviy_godik/static/css/main.2df0f4cf.css.map",
+    "main.2277f144.js.map": "/katjunkina_zapiska_na_noviy_godik/static/js/main.2277f144.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2df0f4cf.css",
+    "static/js/main.2277f144.js"
+  ]
+}
