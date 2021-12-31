@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-family: 'Lobster', cursive;
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  color: #fff;
+  text-shadow: 2px 4px 8px rgb(15, 15, 15);
+  text-align: center;
+  padding-bottom: 750px;
+}
+
+code {
+  font-family: 'Lobster', cursive;
+}
+
+.emojii{
+  text-shadow: none;
+  font-size: 30px;
+}
+
+.ctree{
+  opacity: .9;
+  height: 300px;
+}
