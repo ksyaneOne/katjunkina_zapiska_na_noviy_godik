@@ -9,7 +9,7 @@ const FadeUp = batch(Fade(), Move(), Sticky());
 
 function App() {
   const today = new Date();
-  const newYear = new Date("2021-12-31T23:59:59");
+  const newYear = new Date("2024-12-31T23:59:59");
 
   return (
     <div>
