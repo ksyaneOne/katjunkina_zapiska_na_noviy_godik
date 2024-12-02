@@ -49,17 +49,17 @@ useEffect(() =>{
                     <div>
                         <section>
                             <p>{timerDays}</p>
-                            <p><small>Дней</small></p>
+                            <p><small>Днів</small></p>
                             </section>
                             <span>:</span>
                             <section>
                             <p>{timerHours}</p>
-                            <p><small>Часов</small></p>
+                            <p><small>Годин</small></p>
                             </section>
                             <span>:</span>
                             <section>
                             <p>{timerMinutes}</p>
-                            <p><small>Минут</small></p>
+                            <p><small>Хвилин</small></p>
                             </section>
                             <span>:</span>
                             <section>
